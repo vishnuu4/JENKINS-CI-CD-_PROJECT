@@ -1,4 +1,4 @@
-# JENKINS-CI-CD-_PROJECT
+# JENKINS-CI-CD-_PROJECT-FREESTYLE
 Jenkins on AWS EC2 for CI + Tomcat on AWS EC2 for CD, using a Maven project (pom.xml). It’s structured like a real-world DevOps project.
 
 # 🚀 Jenkins CI + Tomcat CD with Maven on AWS EC2
